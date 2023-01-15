@@ -1,3 +1,2 @@
 # Asteroids-Game
-
-## Asteroids game created with p5.js
+Asteroids game created with p5.js
