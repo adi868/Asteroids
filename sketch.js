@@ -4,5 +4,10 @@ function setup() {
 }
 
 function draw() {
+	background(0)
 	// put drawing code here
+}
+
+function Ship(){
+	
 }
