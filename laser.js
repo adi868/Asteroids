@@ -25,7 +25,7 @@ class Laser {
                 return false;
             }
         }
-        this.offscreen = function () {
+        this.offscreen = function () {  
             if (this.pos.x > width || this.pos.x < 0) {
                 return true;
             } if (this.pos.y > height || this.pos.y < 0) {

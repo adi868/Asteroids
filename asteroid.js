@@ -24,7 +24,7 @@ class Asteroid {
         this.render = function () {
             push();
             stroke(255);
-            noFill();
+            fill(100)
             translate(this.pos.x, this.pos.y);
             beginShape();
             for (let i = 0; i < this.total; i++) {
