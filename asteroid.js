@@ -1,4 +1,3 @@
-//constructor fn
 class Asteroid {
     constructor(pos, r) {
         if (pos) {
