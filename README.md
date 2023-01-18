@@ -1,5 +1,5 @@
 # Asteroids-Game
-Asteroids game created with p5.js. 
+Asteroids game built with p5.js. 
 ## How to Play
 
 Avoid colliding with the asteroids and score 50 points to win the game (by destroying asteroids).
