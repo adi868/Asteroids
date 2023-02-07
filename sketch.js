@@ -38,7 +38,7 @@ function draw() {
 		} else {
 			for (let j = asteroids.length - 1; j >= 0; j--) {
 				if (lasers[i].hits(asteroids[j])) {
-					//remove asteroids if size falls below threshold
+					// remove asteroids if size falls below threshold
 					score++;
 					if (asteroids[j].r > 10) {
 						let newAsteroids = asteroids[j].breakup();
